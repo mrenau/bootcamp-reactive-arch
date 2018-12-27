@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/common.iml" filepath="$PROJECT_DIR$/.idea/modules/common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/holiday-listing.iml" filepath="$PROJECT_DIR$/.idea/modules/holiday-listing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/holiday-listing-build.iml" filepath="$PROJECT_DIR$/.idea/modules/holiday-listing-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/search-api.iml" filepath="$PROJECT_DIR$/.idea/modules/search-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/search-impl.iml" filepath="$PROJECT_DIR$/.idea/modules/search-impl.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/web-gateway.iml" filepath="$PROJECT_DIR$/.idea/modules/web-gateway.iml" />
+    </modules>
+  </component>
+</project>

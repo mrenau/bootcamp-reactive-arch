@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ScalaSbtSettings">
+    <option name="customLauncherPath" value="$PROJECT_DIR$/../mastria-backend-configuration/sbt-dist" />
+    <option name="customVMEnabled" value="true" />
+    <option name="customVMPath" value="/Library/Java/JavaVirtualMachines/jdk1.8.0_25.jdk/Contents/Home" />
+    <option name="linkedExternalProjectsSettings">
+      <SbtProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/common" />
+            <option value="$PROJECT_DIR$/project" />
+            <option value="$PROJECT_DIR$/search-api" />
+            <option value="$PROJECT_DIR$/search-impl" />
+            <option value="$PROJECT_DIR$/web-gateway" />
+          </set>
+        </option>
+        <option name="sbtVersion" value="0.13.16" />
+      </SbtProjectSettings>
+    </option>
+    <option name="maximumHeapSize" value="2536" />
+  </component>
+</project>
